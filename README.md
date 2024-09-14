@@ -6,12 +6,12 @@
 <br>
 <br>
 <br>
-<p align="center">
-  <h2>🛠️Languajes and tools</h2>
+<div align="center">
+  <h2>🛠️ Languages and Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,java,js,react,kotlin,nodejs,pycharm,py,linux" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,java,js,react,kotlin,nodejs,pycharm,py,linux" alt="Languages and Tools" />
   </a>
-</p>
+</div>
 <!---
 PTKares/PTKares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
