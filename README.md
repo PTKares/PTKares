@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/ptkares"><img src="https://api.daily.dev/devcards/v2/wJKU51hEpm4WLOr9uzpnH.png?type=wide&r=412" width="652" alt="Jaime's Dev Card"/></a>
+<a href="https://app.daily.dev/ptkares"><img src="https://api.daily.dev/devcards/v2/wJKU51hEpm4WLOr9uzpnH.png?type=wide&r=eao" width="652" alt="Jaime's Dev Card"/></a>
 <br>
 <br>
 <br>
