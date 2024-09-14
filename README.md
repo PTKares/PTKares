@@ -7,7 +7,7 @@
 <br>
 <br>
 <p align="center">
-  <p>🛠️Languajes and tools</p>
+  <h2>🛠️Languajes and tools</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,java,js,react,kotlin,nodejs,pycharm,py,linux" />
   </a>
